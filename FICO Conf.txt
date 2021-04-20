@@ -1,0 +1,18 @@
+
+com.fico
+Fair Isaac Corporation
+
+Account Id - 63839292020020939
+
+User Name - hackymeifyoucan
+Password - mohitsocteam@12345
+
+SSN - 354-7837-838
+
+CCD - 8394 8383 9982 4657
+Name - Mohit Bagaria Test
+CCD - 334
+Expiry Date - 23/45
+
+https://fico.com
+
